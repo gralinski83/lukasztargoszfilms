@@ -1,2 +1,0 @@
-# lukasztargoszfilms
-lukasztargoszfilms

@@ -26,6 +26,7 @@
             "id": "https://gralinski83.github.io/lukasztargoszfilms/scenery.html",
             "url": "https://gralinski83.github.io/lukasztargoszfilms/scenery.html",
             "title": "Scenery",
+            "content_html": "<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1011314.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1011314-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1004151.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1004151-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1000741.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1000741-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/dji_0033-2.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/dji_0033-2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/dji_0029.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/dji_0029-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/1270357.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/1270357-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/1270346.jpg\" ><img src=\"https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/1270346-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>",
             "image": "https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/",
             "author": {
                 "name": "lukasztargoszfilms"
@@ -33,7 +34,7 @@
             "tags": [
             ],
             "date_published": "2018-11-05T16:33:48+00:00",
-            "date_modified": "2018-11-05T16:33:48+00:00"
+            "date_modified": "2018-11-05T16:40:45+00:00"
         },
         {
             "id": "https://gralinski83.github.io/lukasztargoszfilms/business-clip.html",

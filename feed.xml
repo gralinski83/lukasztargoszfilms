@@ -3,7 +3,7 @@
     <title>Lukax</title>
     <link href="https://gralinski83.github.io/lukasztargoszfilms/feed.xml" rel="self" />
     <link href="https://gralinski83.github.io/lukasztargoszfilms" />
-    <updated>2018-11-05T16:36:45+00:00</updated>
+    <updated>2018-11-05T16:41:33+00:00</updated>
     <author>
         <name>lukasztargoszfilms</name>
     </author>
@@ -29,9 +29,22 @@
         <link href="https://gralinski83.github.io/lukasztargoszfilms/scenery.html"/>
         <id>https://gralinski83.github.io/lukasztargoszfilms/scenery.html</id>
 
-        <updated>2018-11-05T16:33:48+00:00</updated>
+        <updated>2018-11-05T16:40:45+00:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1011314.jpg" ><img src="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1011314-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1004151.jpg" ><img src="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1004151-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1000741.jpg" ><img src="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/p1000741-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/dji_0033-2.jpg" ><img src="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/dji_0033-2-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/dji_0029.jpg" ><img src="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/dji_0029-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/1270357.jpg" ><img src="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/1270357-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+<figure class="gallery__item"><a href="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/1270346.jpg" ><img src="https://gralinski83.github.io/lukasztargoszfilms/media/posts/4/gallery/1270346-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Business clip</title>
