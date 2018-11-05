@@ -3,7 +3,7 @@
     <title>Lukax</title>
     <link href="https://gralinski83.github.io/lukasztargoszfilms/feed.xml" rel="self" />
     <link href="https://gralinski83.github.io/lukasztargoszfilms" />
-    <updated>2018-11-05T16:42:08+00:00</updated>
+    <updated>2018-11-05T16:43:34+00:00</updated>
     <author>
         <name>lukasztargoszfilms</name>
     </author>
@@ -66,9 +66,14 @@
         <link href="https://gralinski83.github.io/lukasztargoszfilms/aerial.html"/>
         <id>https://gralinski83.github.io/lukasztargoszfilms/aerial.html</id>
 
-        <updated>2018-11-05T16:33:03+00:00</updated>
+        <updated>2018-11-05T16:43:29+00:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://gralinski83.github.io/lukasztargoszfilms/media/posts/2/" alt="" />
+                <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/r5GKM1lS4sY" allowfullscreen="allowfullscreen"></iframe></figure>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Music</title>
