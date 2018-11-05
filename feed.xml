@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Lukax</title>
+    <link href="https://gralinski83.github.io/lukasztargoszfilms/feed.xml" rel="self" />
+    <link href="https://gralinski83.github.io/lukasztargoszfilms" />
+    <updated>2018-11-05T16:36:45+00:00</updated>
+    <author>
+        <name>lukasztargoszfilms</name>
+    </author>
+    <id>https://gralinski83.github.io/lukasztargoszfilms</id>
+
+    <entry>
+        <title>About me</title>
+        <author>
+            <name>lukasztargoszfilms</name>
+        </author>
+        <link href="https://gralinski83.github.io/lukasztargoszfilms/about-me.html"/>
+        <id>https://gralinski83.github.io/lukasztargoszfilms/about-me.html</id>
+
+        <updated>2018-11-05T16:33:56+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Scenery</title>
+        <author>
+            <name>lukasztargoszfilms</name>
+        </author>
+        <link href="https://gralinski83.github.io/lukasztargoszfilms/scenery.html"/>
+        <id>https://gralinski83.github.io/lukasztargoszfilms/scenery.html</id>
+
+        <updated>2018-11-05T16:33:48+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Business clip</title>
+        <author>
+            <name>lukasztargoszfilms</name>
+        </author>
+        <link href="https://gralinski83.github.io/lukasztargoszfilms/business-clip.html"/>
+        <id>https://gralinski83.github.io/lukasztargoszfilms/business-clip.html</id>
+
+        <updated>2018-11-05T16:33:28+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Aerial</title>
+        <author>
+            <name>lukasztargoszfilms</name>
+        </author>
+        <link href="https://gralinski83.github.io/lukasztargoszfilms/aerial.html"/>
+        <id>https://gralinski83.github.io/lukasztargoszfilms/aerial.html</id>
+
+        <updated>2018-11-05T16:33:03+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Music</title>
+        <author>
+            <name>lukasztargoszfilms</name>
+        </author>
+        <link href="https://gralinski83.github.io/lukasztargoszfilms/music.html"/>
+        <id>https://gralinski83.github.io/lukasztargoszfilms/music.html</id>
+
+        <updated>2018-11-05T16:32:44+00:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
