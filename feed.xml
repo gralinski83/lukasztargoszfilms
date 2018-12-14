@@ -3,7 +3,7 @@
     <title>LukaszTargoszFilms</title>
     <link href="https://gralinski83.github.io/lukasztargoszfilms/feed.xml" rel="self" />
     <link href="https://gralinski83.github.io/lukasztargoszfilms" />
-    <updated>2018-12-14T21:15:53+00:00</updated>
+    <updated>2018-12-14T21:29:28+00:00</updated>
     <author>
         <name>lukasztargoszfilms</name>
     </author>
@@ -96,11 +96,11 @@
         <link href="https://gralinski83.github.io/lukasztargoszfilms/aerial.html"/>
         <id>https://gralinski83.github.io/lukasztargoszfilms/aerial.html</id>
 
-        <updated>2018-11-06T15:12:26+00:00</updated>
+        <updated>2018-12-14T21:18:18+00:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://gralinski83.github.io/lukasztargoszfilms/media/posts/2/" alt="" />
+                    <img src="https://gralinski83.github.io/lukasztargoszfilms/media/posts/2/dji_0033-2.jpg" alt="" />
                 <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/r5GKM1lS4sY" allowfullscreen="allowfullscreen"></iframe></figure>
 <figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/mAwuAFfkQY8" allowfullscreen="allowfullscreen" ></iframe></figure>
             ]]>
@@ -114,7 +114,7 @@
         <link href="https://gralinski83.github.io/lukasztargoszfilms/music.html"/>
         <id>https://gralinski83.github.io/lukasztargoszfilms/music.html</id>
 
-        <updated>2018-11-06T15:37:13+00:00</updated>
+        <updated>2018-12-14T21:29:22+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://gralinski83.github.io/lukasztargoszfilms/media/posts/1/" alt="" />
@@ -130,7 +130,12 @@
 <div class="entry-content">
 <p>Music surrounds Us, it everywhere, its part of daily beat.</p>
 <p>I started journey with filming live music in 2010, through all those years  I filmed small and big bands from little recording studio session to big festival stage. Its all about capturing the moment and emotions which connected with the sound crate audio visual experience.</p>
-<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/-2uxX9Y8GBo" allowfullscreen="allowfullscreen" ></iframe></figure>
+<figure class="post__video">
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/DS_NhxVKNwg" allowfullscreen="allowfullscreen" ></iframe><iframe width="560" height="314" src="https://www.youtube.com/embed/-2uxX9Y8GBo" allowfullscreen="allowfullscreen" ></iframe>
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/ZgORW-8dCDE" allowfullscreen="allowfullscreen"></iframe></figure>
+</figure>
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/7ysRQKig1W4" allowfullscreen="allowfullscreen"></iframe></figure>
+</figure>
 </div>
             ]]>
         </content>
